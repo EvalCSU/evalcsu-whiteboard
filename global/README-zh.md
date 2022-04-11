@@ -8,7 +8,7 @@ EvalCSU 的极客们建立了这个基本的演示，让你以更标准的方式
 
 我们希望你能在这个仓库的基础上把你的想法变成现实，而不是 CTRL-C/V，因为它只是一个玩具项目。
 
-欢迎为 [EvalCSU-ChatRoom](https://github.com/EvalCSU/evalcsu-whiteboard) 点亮 star，和加入我们 [EvalCSU](https://github.com/Jacob953/evalcsu) 。
+欢迎为 [EvalCSU-WhiteBoard](https://github.com/EvalCSU/evalcsu-whiteboard) 点亮 star，和加入我们 [EvalCSU](https://github.com/Jacob953/evalcsu) 。
 
 ## 特点
 1.编写图形用户界面，老师作为服务器端，学生作为客户端，一个服务器端可以接受多个客户端连接。
