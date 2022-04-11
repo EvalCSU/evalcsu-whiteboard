@@ -8,7 +8,7 @@ Geeks of EvalCSU build this basic demo for you to learn and practice JavaSocket 
 
 We hope you can bring your thoughts to life base on this repo rather than CTRL-C/V, since it's just a toy program.
 
-Welcome to light up the stars for [EvalCSU-ChatRoom](https://github.com/EvalCSU/evalcsu-whiteboard) and join us at [EvalCSU](https://github.com/Jacob953/evalcsu).
+Welcome to light up the stars for [EvalCSU-WhiteBoard](https://github.com/EvalCSU/evalcsu-whiteboard) and join us at [EvalCSU](https://github.com/Jacob953/evalcsu).
 
 ## Feature
 1. write the graphical user interface, the teacher as the server side, the student as the client side, a server side can accept multiple client connections.
